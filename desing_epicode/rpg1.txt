@@ -1,0 +1,37 @@
+CINQUE ATTRIBUTI 
+
+Forza:
+Permette di equipaggiare armi e armature più pesanti. 
+Aumenta notevolmente l’attacco base.
+Incrementa il danno critico.
+Agilità:
+Permette di usare armi complesse e veloci.
+Aumenta l’attacco base e moderatamente L’attacco critico.
+Incrementa notevolmente la probabilità di critico
+Magia:
+Aumenta la quantità di mana disponibile.
+Permette l’uso di magie e potenziamenti fisici più complessi e potenti.
+Vita:
+Aumenta i punti vita massimi.
+Migliora la resistenza ai danni fisici ed elementali.
+Stamina:
+Aumenta l’energia disponibile per compiere azioni in un turno.
+Determina la frequenza con cui si possono usare abilità e attacchi pesanti.
+
+LE CINQUE AZIONI 
+Attacco base:
+Consumo: basso (Stamina/Mana).
+Danno: da minimo a medio in base all’arma.
+Velocità: standard.
+Attacco pesante
+Consumo: alto (Stamina/Mana).
+Danno: elevato.
+Velocità: ridotta (può agire dopo il nemico).
+Abilità:
+Può essere di attacco, difesa, guarigione.
+Tutte le classi hanno accesso a un pool comune di abilità.
+Consuma Stamina o Mana (a seconda dell’abilità).
+Abilità di Classe:
+come l’azione Abilità, ma qui si usano solo abilità della classe del personaggio
+Item/Oggetti:
+si possono usare determinati oggetti che consumano stamina/Mana o fanno finire il turno.

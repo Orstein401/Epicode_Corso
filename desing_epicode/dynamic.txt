@@ -1,0 +1,19 @@
+trasformare o creare una meccanica di un gioco per creare una dinamica
+  
+Ho pensato alla meccanica dei souls che qunado si muore si perdono i punti detti anime,rune...
+invece di lasciare a terra i punti essi vengono assorbiti dal nemico che uccide il player ed esso si potenzia in diversi modi in base alla quantita dei punti del giocatore,
+redendo il recupero più cattivo, ma questo poteziamento fa aumentare di base i punti che doveva dare il nemico ad esempio da 100 passa a 150, e aumenta la probalità loot,
+quindi le dinamiche che si creano sono diverse, la prima lo si fa apposta per diversi motivi, scoprire tutte le trasformazioni/poteziamenti dei npc, investirli moriamo apposta
+per aumentare l'ammontare originale, per ottenere loot raro più facilemente in mancaza di altri oggeti o per addizionarli, far cadere in trapolla altri player cosi neanche rischiamo di perdere i nostri punti.
+
+un altra è su dead space
+La tuta spaziale è considerata più come un armatura, rispetto a una tuta del futuro ipertecnologica, anche se si possono considerare poteri della tuta la telicinesi e la criogen,
+quindi ho pensato di aggiungiere/modificare la schivata (messa solo nel terzo, ma mai utillizata per davvero) quindi ora la tuta ha anche il potere dello scatto tramite i propulsori,
+ed essi possono essere potenziati, la dinamica che si crea è quella di creare uno stile di combattimento totalmente diverso o di ignorare completamente qeusta meccanica per dare priorità
+ad altro, quindi questo crea delle build non solo sulle armi come già c'era, ma ora anche sul movimento e i poteri.
+
+Su warframe
+ci sta la modifica delle armi che avviene tramite moduli ed per potenziare l'arma si poteziano i moduli e non l'arma stessa.
+quindi io aggiungo il fatto di poter potenziare di grado l'arma per rendere le statistiche base migliori e di avere più punti per mettere moduli più potenti.
+cosi si crea una dinamica di più personalizzazione delle armi anche se è già molto alta, inoltre le armi di più basso livello acquistano valore e possono essere vendute sul market
+e non solo le armi mega rare e/o fortissime
