@@ -1,0 +1,67 @@
+PORTATORI DI LUCE 
+
+
+
+OVERVIEW
+I Portatori di luce parla di un mito, quello della creazione del sole soprannominato la “Grande Lanterna”,
+noi appunto siamo un portatore di luce che in base alle sue scelte deciderà cosa succederà al mondo, 
+il gioco è in terza persona ravvicinato per far vedere come cresce il personaggio che avrà una e vera propria trasformazione, 
+andando avanti con la storia e anche il mondo circostante prima e dopo il suo passaggio, il gioco è adatto sia a pc che console, 
+prima si punterà ai pc gamer a cui interessa maggiormente questo tipo di storia, il gameplay consiste nel liberare i piccoli villaggi
+e città dai mostri accendendo i falò per farsi strada fino ad accendere il beacon che scaccerà tutti i mostri, il combattimento sarà simile ai souls in generale, 
+tanti nemici semplici per imparare, poi nemici forti e infine mini boss/boss.
+
+STORY/PLOT
+plot:
+Ci troviamo in un mondo tetro, avvolto nell’oscurità. 
+Le Uniche fonti di luce sono i falò e Beacon, accessi dai portatori di luce, 
+creature intelligenti come l’uomo e per questo i porta luce e l’uomo collaborano, 
+non hanno faccia e la loro pelle sembra fatta di carbone e possono sprigionare una luce appunto per accendere i falò e Beacon. 
+Story:
+I portatori di luce sono entità difenditrici del mondo dai mostri oscuri, 
+essi si occupano dello sterminio dei mostri e del regolamento delle luci nei vari villaggi e città. 
+Ma un giorno un entità (Mostro) Oscura ha spento tutte le luci del mondo, portando una oscurità totale, 
+l’unico modo di salvare tutti è credere nella storia della Grande Lanterna (il sole) creata da antichi custodi del mondo, 
+seconda alla leggenda una volta accesa essa si eleverà al cielo e regolerà la luce in tutto il mondo, illuminando non solo le città, 
+ma interi continenti, rendendo i portatori di luce “superflui”. Noi siamo un portatore di luce il cui compito è di accendere la Grande Lanterna, 
+verremo ostacolati da mostri e da altri porta luce per impedire di perdere il proprio scopo, 
+infine decideremo se accendere completamente il “sole” e portare la luce ovunque però non dando riposo mai, 
+costringendo a tutti di vivere per sempre nella luce, di accenderlo parzialmente e quindi di creare il ciclo giorno e notte accontentando tutti oppure far sprofondare completamente il mondo nel buio.
+
+Gameplay
+il gameplay base è uccidi i nemici per poter sbloccare i falò che ti daranno uno o più potenziamenti minori, 
+per infine arrivare al Beacon per darti un potenziamento principale o un potere in stile infamous, 
+dove quando accendevi una parte della città sblocchi un potere che potenzi uccidendo nemici utilizzandolo spesso. 
+Però la vera meccanica Core sta nel fatto di accendere i falò che essi non sono solo dei punti di potenziamento, 
+cambiano la presenza dei mostri da un'area a un'altra, di fatto nella lore del gioco i mostri sono attirati dalla luce e allo stesso tempo spaventati se troppo grande, 
+quindi quando si accende un falò i nemici minori verranno attirati dalla fioca luce rendendo la zona intorno più difficile,
+ma più semplice la successiva abbassando il numero di nemici nell’area lasciando principalmente solo quelli più forti, 
+questo fa sì che il giocatore crei una dinamica gestionale decidendo a suo piacimento la difficoltà o il focus del gameplay, 
+ad esempio accende il falò per capire com’è la prossima zona, semplificare la fuga dai nemici etc…
+(può richiedere un grande sforzo di bilanciamento al fine di creare una meccanica di gioco molto interessante).
+
+lo STYLE COMBAT 
+è sia melee che a distanza dipende dalla build che si costruisce, 
+il combattimento simile ai souls principalmente lies of p e nioh che non hanno delle vere è proprie build solo distanza, 
+ma tramite i poteri che si sbloccano in (portatori di luce) si può anche fare.
+
+Weapon
+sono di diverso tipo, le dividiamo in quattro tipi spade(stocco,spadone, spada) aste(lance, alabarda,bastone), martelli(picconi,mazze) 
+armi speciali che sono ideate per i giocatori che puntano a una build solo poteri, esse si possono potenziare solo nelle città dove è stato acceso un beacon.
+
+Monsters
+I mostri sono principalmente scuri e negli esemplari più forti troviamo che emettono delle piccole lucine colorate,
+facendo vedere che hanno assorbito della luce, all’inizio troviamo principalmente bestie, per poi passare a personaggi di una certa intelligenza e storia dietro.
+
+Upgrades
+Anche se il gioco assomiglia ai souls per certi aspetti, 
+il personaggio non si potenzia a livelli e non ha le classiche statistiche (forza,agi,mana…) ha una barra della vita, 
+carica dei poteri che si ricarica piano con il passare del tempo, stamina per non far spammare colpi o schivate, 
+si possono potenziare le statistiche menzionate e l'affinità con una particolare arma/potere ai falò, 
+mentre l'efficacia/danno dei poteri si potenziano man mano che si usano ad esempio dopo aver ucciso 10 nemici con “raggio di luce” esso aumenta il danno… 
+cosi per tutti gli altri. 
+
+Secrets
+Avventurandosi si potranno scoprire più informazioni riguardanti la creazione della Grande Lanterna (sole) e dei suoi creatori, 
+per far si che il gioco duri di più tramite missioni secondarie e l'esplorazione delle aree, 
+appagare di più le curiosità del giocatore e magari aprendo un dlc/ prequel/sequel.    
