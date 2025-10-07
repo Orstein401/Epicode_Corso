@@ -65,3 +65,29 @@ Secrets
 Avventurandosi si potranno scoprire più informazioni riguardanti la creazione della Grande Lanterna (sole) e dei suoi creatori, 
 per far si che il gioco duri di più tramite missioni secondarie e l'esplorazione delle aree, 
 appagare di più le curiosità del giocatore e magari aprendo un dlc/ prequel/sequel.    
+
+pensieri/commenti
+obiettivo= trovare e accendere la grande lanterna o distruggerla.
+regole
+feedback= vedere cosa comporta essere un porta luce, tra riaccendere la luce di una città, al uccidere i mostri, il peso delle nostre azioni
+decisioni= il percorso che seguiremo tramite le decisioni con npc e azioni verso le lanterne
+
+meccanica= continua sia tempo che spazio
+actions base= attaccare, parlare, interagire con i fari
+
+meccanica core= Accende e spegne le luci strategicamente per proteggere le città dalle Entità Oscure.
+meccanica pillar= solo il grande faro/lanterna/cosa che non so fa allontanare completamente i mostri, mentre i piccoli falò li attirano da altre zone, questo fa si che se si vuole esplorare altre zone si può semplificare la zona così spostando i nemici più deboli dove si è accesso il falo, quindi andando nella zona successiva si incontreranno solo tank, mini boss e boss.
+
+dinamica= è proprio come il giocatore gestirà la luce nelle varie zone
+aesthetic = si vuole trasmettere inizialmente quanto la luce possa portare del bene e quindi indurlo ad accendere la grande lanterna facendolo sentire un eroe, quindi prima del suo passaggio sembra tutto distrutto e decadente… per poi farlo rivivere, invece più avanti gli mettiamo il dubbio dove vediamo che accendendo la luce il villaggio prospera ma la natura o altri tipi di edifici perdono la loro magia e diventano “vuoti”.
+
+C.C.C
+il character= è ben definito, è un essere oscuro ma che al suo interno sprigiona una luce per questo è detto porta luce,
+camera= in terza persona vicina che fa vedere come esteriormente cresce il porta luce e fa vedere meglio il posto che lo circonda
+controls= generalmente sono diretti, ma quando deve accendere la luce deve tenere premuto per far sentire il peso suo.
+
+il core loop= uccidere avanzare accendere falò
+secondary loop= accendere il falò più grosso fa fare grandi potenziamenti, scoperta di armi 
+
+(piccoli falò e poi grande che illumina tutto per salvare citta)
+(altro finale oscurità totale)
